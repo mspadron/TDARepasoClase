@@ -1,5 +1,5 @@
 
-#include "Cproceso.cpp"
+#include "Cproceso.cpp"//
 int main (int argc, char** argv){
 	int a=18,b=3;
 	Cproceso *obj1=new Cproceso(a,b);
